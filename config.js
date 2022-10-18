@@ -3,7 +3,7 @@
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
 𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐖𝐚 : 081283186765
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -34,8 +34,8 @@
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
 ⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
-let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
-  let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
+let nowner1 = `${6281283186765.split`@`[0]}@s.whatsapp.net`
+  let nowner2 = `${6281389926899.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown1.split`@`[0]} ✦
 */
@@ -80,15 +80,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6281389926899', 'Wå.mê/Liyxzx🐤', true],
+['6281283186765', 'Wå.mê/Äkmål🐤', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorown = '6281283186765'
+global.nomorown1 = '6281283186765'
+global.nomorown2 = '6281389926899'
 global.nomorwa = '0'
 
 
@@ -110,8 +110,8 @@ global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Aldi'
-global.nameown2 = 'Aisyah'
+global.nameown1= 'Wå.mê/Liyxzx🐤'
+global.nameown2 = 'Wå.mê/Äkmål🐤'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -125,12 +125,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '081283186765'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pgopay = '62xxxxx'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '081283186765'
+global.ppulsa2 = '081389926899'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
@@ -343,9 +343,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/hyuura-offical"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '081283186765'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
